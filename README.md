@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="clay/assets/clay-logo.svg" alt="Clay logo" width="360">
+  <img src="clay/assets/clay-logo.png" alt="Clay logo" width="360">
 </p>
 
 <h1 align="center">Clay · כלי</h1>
@@ -44,7 +44,7 @@ The name is a bilingual pun: "Clay" (the material) / "כלי" (kli — vessel) /
 
 <table>
   <tr>
-    <td align="center" style="background:#F2EFE4;padding:2rem"><img src="clay/assets/clay-logo.svg" alt="Logo on cream" width="200"></td>
+    <td align="center" style="background:#F2EFE4;padding:2rem"><img src="clay/assets/clay-logo.png" alt="Logo on cream" width="200"></td>
     <td align="center" bgcolor="#37322B" style="padding:2rem"><img src="clay/assets/Gemini_Generated_Image_4l30rk4l30rk4l30.png" alt="Original logo" width="200"></td>
   </tr>
   <tr>
